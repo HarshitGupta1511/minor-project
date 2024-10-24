@@ -53,7 +53,7 @@ const About = () => {
             <div class="text-container">
                 <h1 class="text-title">What is 75%?</h1>
                 <p class="text-desc">
-                Welcome to 75per, the ultimate destination for all your study resource needs. Our platform is designed to provide you with comprehensive and high-quality materials, ensuring you have everything required to excel academically. With our resources, you can confidently aim to top your exams and achieve outstanding scores. Our mission is to support your educational journey, making it easier and more efficient to access the best study materials in one convenient place. Experience unparalleled success with 75per, where your academic excellence is our priority.                </p>
+                Welcome to Campus Corner, the ultimate destination for all your study resource needs. Our platform is designed to provide you with comprehensive and high-quality materials, ensuring you have everything required to excel academically. With our resources, you can confidently aim to top your exams and achieve outstanding scores. Our mission is to support your educational journey, making it easier and more efficient to access the best study materials in one convenient place. Experience unparalleled success with Campus Corner, where your academic excellence is our priority.                </p>
             </div>
         </div>
         <div class="end">
